@@ -1,0 +1,146 @@
+[{
+	"id": 0,
+	"image": null,
+	"name": "Daily Plan",
+	"plantype_id": 1,
+	"min_amount": 1,
+	"max_amount": 1000,
+	"amount": 1000,
+	"interest_rate": 0.5,
+	"reward_amount": 500,
+	"duration": 600,
+	"duration_key": "days",
+	"publish": 1,
+	"active": 1,
+	"principle_return": 0,
+	"compounding": 0,
+	"orderby": 1,
+	"plantype": {
+		"id": 1,
+		"plantype": "Daily",
+		"active": 1
+		
+	}
+}, {
+	"id": 1,
+	"image": null,
+	"name": "Daily Business Plan ",
+	"plantype_id": 2,
+	"min_amount": 1,
+	"max_amount": 3000,
+	"amount": 3000,
+	"interest_rate": 0.6,
+	"duration": 500,
+	"duration_key": "days",
+	"publish": 1,
+	"active": 1,
+	"principle_return": 0,
+	"partial_withdraw_status": 0,
+	"max_partial_withdraw_limit": null,
+	"minimum_locking_period": null,
+	"paritial_withdraw_fee": null,
+	"compounding": 0,
+	"orderby": 2,
+	"plantype": {
+		"id": 2,
+		"plantype": "Daily Business",
+		"active": 1
+		
+	}
+}, {
+	"id": 2,
+	"image": null,
+	"name": "Weekly Plan",
+	"plantype_id": 5,
+	"min_amount": 1,
+	"max_amount": 10000,
+	"amount": 10000,
+	"interest_rate": 0.7,
+	"duration": 50,
+	"duration_key": "weeks",
+	"publish": 1,
+	"active": 1,
+	"principle_return": 1,
+	"partial_withdraw_status": 0,
+	"max_partial_withdraw_limit": null,
+	"minimum_locking_period": null,
+	"paritial_withdraw_fee": null,
+	"compounding": 0,
+	"orderby": 3,
+	"deleted_at": null,
+	"created_at": "2019-09-30 14:58:11",
+	"updated_at": "2019-09-30 14:58:11",
+	"plantype": {
+		"id": 5,
+		"plantype": "Weekly",
+		"active": 1
+		
+	}
+},{
+	"id": 3,
+	"image": null,
+	"name": "Hourly Plan ",
+	"plantype_id": 4,
+	"min_amount": 1,
+	"max_amount": 6000,
+	"amount": 6000,
+	"interest_rate": 0.8,
+	"duration": 100,
+	"duration_key": "hours",
+	"publish": 1,
+	"active": 1,
+	"principle_return": 0,
+	"compounding": 0,
+	"orderby": 2,
+	"plantype": {
+		"id": 2,
+		"plantype": "Hourly",
+		"active": 1
+		
+	}
+}, {
+	"id": 4,
+	"image": null,
+	"name": "Monthly Plan",
+	"plantype_id": 1,
+	"min_amount": 1,
+	"max_amount": 20000,
+	"amount": 20000,
+	"interest_rate": 1,
+	"duration": 24,
+	"duration_key": "months",
+	"publish": 1,
+	"active": 1,
+	"principle_return": 1,
+	"compounding": 1,
+	"orderby": 4,
+	
+	"plantype": {
+		"id": 6,
+		"plantype": "Monthly",
+		"active": 1
+	 }
+		
+	},{
+	"id": 5,
+	"image": null,
+	"name": "Yearly Plan",
+	"plantype_id": 8,
+	"min_amount": 1,
+	"max_amount": 50000,
+	"amount": 50000,
+	"interest_rate": 5,
+	"duration": 5,
+	"duration_key": "years",
+	"publish": 1,
+	"active": 1,
+	"principle_return": 0,
+	"compounding": 1,
+	"orderby": 5,
+	"plantype": {
+		"id": 6,
+		"plantype": "Yearly",
+		"active": 1
+		
+	}
+}]

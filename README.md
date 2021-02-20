@@ -2,9 +2,9 @@
 
 ## Calculate Simple / Compounding Interest for various plans.
 
-HYIP Calcultor is a simple tool build with VueJS and distributed as Open Source by LaraHYIP Team. This code is intended for learning purpose for developers. You can use the code in your projects also.
+HYIP Calcultor is a simple tool build with VueJS and distributed as Open Source by [LaraHYIP](https://phphyipmanagerscript.com) Team. This code is intended for learning purpose for developers. You can use the code in your projects also.
 
-> calculator
+Check full [HYIP Software](https://phphyipmanagerscript.com) for demo.
 
 ## Build Setup
 
